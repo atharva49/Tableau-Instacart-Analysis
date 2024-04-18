@@ -107,8 +107,3 @@ The data narrative will be polished and formatted for high-grade publishing.
 Overall, this project will provide valuable insights into Instacart's grocery orders dataset and create a compelling data narrative to communicate those insights effectively.
 
 
-
-
-
-Since I cannot upload files more than 25 MB in size I have included the link to the project twbx file: https://www.dropbox.com/scl/fi/8mmsagu5qo9dbza1odreb/Instacart.twbx?rlkey=fk9x9ex2k5da6wparonsq7s60&dl=0
-
