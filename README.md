@@ -1,8 +1,6 @@
 # Instacart analysis
 The dataset, from Instacart, comprises 3M+ grocery orders by 200K+ users. It includes order specifics, product sequences, order timing, and aisle/department info. The dataset contains details about the orders placed by various users, the week and hour of the day the order was placed, and a relative measure of time between orders. It also has information about the aisle and department for the sold products.
 
-Tableau Public Link for Project - https://public.tableau.com/app/profile/soham.ambekar/viz/InstacartMarketBasketAnalysis_17107967290970/Story-Instacart
-
 # Creating a Data Narrative for Instacart Grocery Orders Dataset
 
 The project will follow the following steps:
