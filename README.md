@@ -17,7 +17,6 @@ The project will follow the following steps:
 
 # Acquiring Data 
 The orders.csv file and the orders_products_train.csv file will be related to creating a custom data source for every visualization. Tableau will automatically select join types based on the fields used in the visualization.
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/fcae188c-6736-47cf-8e3a-efe2024d3985)
 
 # Defining the Audience
 The audience will be defined to ensure that the data narrative is tailored to their needs and interests.
