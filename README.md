@@ -31,50 +31,62 @@ The data will be analyzed in several sections to gain insights and develop the s
 
 a) Service Analysis: This section will analyze the busiest days of the week, the busiest hours, the top 10 products in the busiest hours, and the days since the prior order.
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/b1a2c318-7ae1-459f-9135-6a99a17bd6f3)
+![272156436-b1a2c318-7ae1-459f-9135-6a99a17bd6f3](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/9ed03f2b-2860-4762-8329-daf3c13eab4d)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/86dfe277-df08-493e-9273-6c787e6551c6)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/239dce10-1471-4a1d-8766-509a4183191a)
+![272156467-86dfe277-df08-493e-9273-6c787e6551c6](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/3fdfa402-1a49-4978-98c0-3ed09a957771)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/dc9b765f-474d-4079-a06a-80a192c8465b)
+
+![272156483-239dce10-1471-4a1d-8766-509a4183191a](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/348f6259-b23f-451c-890e-676480f4d73d)
+
+![272156498-dc9b765f-474d-4079-a06a-80a192c8465b](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/b7056468-5d34-4c59-88d9-0dcee49d994a)
+
+
 
 b) Product Analysis: This section will analyze the best-selling products, the top 10 products on the first order, the top 10 reordered products in terms of their probability of being reordered, and the number of items purchased in an order.
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/ebfe8b51-7cdb-408c-9c1e-06545a6b952f)
+![272156600-ebfe8b51-7cdb-408c-9c1e-06545a6b952f](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/aaa8754a-bdbc-4db4-9e38-52b0001e72e8)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/557952a9-6d9a-4c74-a986-7fd3f64f2905)
+![272156616-557952a9-6d9a-4c74-a986-7fd3f64f2905](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/a6143eb4-af70-4467-8c95-a33120ed40fd)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/3fdb375c-e744-43b6-b72e-049437d0a8c4)
+![272156624-3fdb375c-e744-43b6-b72e-049437d0a8c4](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/5e3e8416-1216-466b-880e-0975b2f28183)
+
+
 
 c) Category Analysis: This section will include a treemap of aisles and products, highlighting the most popular aisles and top products.
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/e7b1613d-55fa-428a-b146-c9a5aecbf3cd)
+![272156676-e7b1613d-55fa-428a-b146-c9a5aecbf3cd](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/a8ea92c6-39d8-4950-b77a-a13d3f1b2c39)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/59352fd6-d9e4-4723-8e32-c3c10f44df5c)
+![272156694-59352fd6-d9e4-4723-8e32-c3c10f44df5c](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/546f70e4-71f4-4439-aca6-331675379072)
+
 
 # Curate your Views
 The best evidence displaying insights will be curated into visualizations, including worksheets such as Busiest Hours, Busiest Days of the Week, Days Since Prior Order, Number of Items Purchased, Best Selling Products, Treemap of Aisles and Products, and the six Top Products per Group worksheets.
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/d13a6463-2df2-4867-bb8d-c086201d3f0f)
+![272156765-d13a6463-2df2-4867-bb8d-c086201d3f0f](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/f5272ea7-dd25-4d1f-8b90-b46264bf9bd4)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/20ad329a-30ea-474e-b05d-2e9127178363)
+![272156781-20ad329a-30ea-474e-b05d-2e9127178363](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/da01f637-21c4-4646-b54c-ef97160118ad)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/aac90e1c-6c5f-4079-b823-9fb23fd36926)
+![272156781-20ad329a-30ea-474e-b05d-2e9127178363 (1)](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/3de08cf5-638f-47fd-9cf9-c2155f21257a)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/e4ff02fc-53bf-438f-a3bc-947e8d9789e4)
+![272156798-aac90e1c-6c5f-4079-b823-9fb23fd36926](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/1c139094-c671-47bf-80a0-c84d600f7264)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/51a11422-2beb-4c8b-94e0-a23acc56a805)
+![272156815-e4ff02fc-53bf-438f-a3bc-947e8d9789e4](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/076b3a53-e01e-409c-a041-a6135471add5)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/1eb58937-3e05-4131-b32c-c3bb49ae4d18)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/0565d89a-bf7a-4234-85a2-b0396f9f5020)
+![272156826-51a11422-2beb-4c8b-94e0-a23acc56a805](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/96dd2145-26c5-489e-84e8-5da60769eb2e)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/cccb4a5b-031a-4011-8d7c-eca3572aa456)
+![272156847-1eb58937-3e05-4131-b32c-c3bb49ae4d18](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/6ff289bf-ff3f-4366-a149-7716338a426b)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/d2327fd6-fd30-4d7e-915e-e23da4cc5307)
+![272156865-0565d89a-bf7a-4234-85a2-b0396f9f5020](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/d259ec84-79e0-4099-a32b-3c9c917af4a7)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/d27d1e02-e60b-4611-80c1-db91a5816025)
+
+![272156880-cccb4a5b-031a-4011-8d7c-eca3572aa456](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/e9baa2ae-39ca-47d2-adee-55cda00e4b2f)
+
+
+![272156898-d2327fd6-fd30-4d7e-915e-e23da4cc5307](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/ed88a86e-74b5-475a-a9ee-370984667200)
+
+
 
 # Organizing the Storyline with Storyboarding
 The storyline will be organized using Freytag’s Pyramid, and story points will be listed in a storyline sequence.
@@ -86,12 +98,14 @@ Freytag’s Pyramid:
 5.	Days Since Prior Order: Falling Action
 6.	Treemap of Aisles and Products: Resolution
    
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/46865af2-5cad-477a-9a78-19b170b35a42)
+![272156915-d27d1e02-e60b-4611-80c1-db91a5816025](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/3e51a90a-c79a-431c-906f-ddd145393626)
+
 
 # Creating a Story in Tableau
 A story will be created in Tableau using curated visualizations and an organized storyline.
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/ae6e843c-3ab3-463d-befe-2919d6d6fef7)
+![272157162-ae6e843c-3ab3-463d-befe-2919d6d6fef7](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/66724d68-9c5a-4ed9-8de1-e7058924f509)
+
 
 # Adding Rhetoric to Your Story
 The analysis will be shaped into a story about a new promotional program for reducing the time between grocery orders, using the appropriate rhetoric for this purpose. 
@@ -100,9 +114,10 @@ Here we have used a logical rhetoric approach.
 # Formatting the Story
 The data narrative will be polished and formatted for high-grade publishing.
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/d616d734-359c-4141-9b21-c46a11a6d43c)
+![272157361-d616d734-359c-4141-9b21-c46a11a6d43c](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/b4d388e5-aeed-453b-8cfa-edad2dca20d2)
 
-![image](https://github.com/TheArc21/Instacart-market-basket-analysis/assets/90914688/eea20802-e24c-4184-99f5-d6e70f25612f)
+![272157377-eea20802-e24c-4184-99f5-d6e70f25612f](https://github.com/atharva49/Tableau-Portfolio/assets/56105570/b587b1f4-c65c-4d94-b51c-cbee051cd0af)
+
 
 Overall, this project will provide valuable insights into Instacart's grocery orders dataset and create a compelling data narrative to communicate those insights effectively.
 
